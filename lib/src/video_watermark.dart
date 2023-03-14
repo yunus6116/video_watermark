@@ -1,8 +1,8 @@
 import 'dart:io';
 import 'package:flutter/material.dart' show ValueSetter, debugPrint;
-import 'package:ffmpeg_kit_flutter_full/ffmpeg_kit.dart';
-import 'package:ffmpeg_kit_flutter_full/return_code.dart';
-import 'package:ffmpeg_kit_flutter_full/session_state.dart';
+import 'package:ffmpeg_kit_flutter_full_gpl/ffmpeg_kit.dart';
+import 'package:ffmpeg_kit_flutter_full_gpl/return_code.dart';
+import 'package:ffmpeg_kit_flutter_full_gpl/session_state.dart';
 import 'package:path_provider/path_provider.dart'
     show getApplicationDocumentsDirectory;
 import 'output_format.dart';
